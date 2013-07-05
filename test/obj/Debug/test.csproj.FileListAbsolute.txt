@@ -1,0 +1,8 @@
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\bin\Debug\test.exe.config
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\bin\Debug\test.exe
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\bin\Debug\test.pdb
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\bin\Debug\cs2ps.dll
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\bin\Debug\cs2ps.pdb
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\obj\Debug\test.exe
+D:\SugarSync\MVS_Projects\PostScriptPainter\test\obj\Debug\test.pdb
