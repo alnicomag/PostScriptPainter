@@ -1,5 +1,0 @@
-D:\SugarSync\MVS_Projects\PostScriptPainter\cs2ps\bin\Debug\cs2ps.dll
-D:\SugarSync\MVS_Projects\PostScriptPainter\cs2ps\bin\Debug\cs2ps.pdb
-D:\SugarSync\MVS_Projects\PostScriptPainter\cs2ps\obj\Debug\cs2ps.csprojResolveAssemblyReference.cache
-D:\SugarSync\MVS_Projects\PostScriptPainter\cs2ps\obj\Debug\cs2ps.dll
-D:\SugarSync\MVS_Projects\PostScriptPainter\cs2ps\obj\Debug\cs2ps.pdb
